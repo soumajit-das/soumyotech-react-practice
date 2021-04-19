@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/soumyotech-react-practice/static/css/main.ce84cb0f.chunk.css",
+    "main.js": "/soumyotech-react-practice/static/js/main.77fbe112.chunk.js",
+    "main.js.map": "/soumyotech-react-practice/static/js/main.77fbe112.chunk.js.map",
+    "runtime-main.js": "/soumyotech-react-practice/static/js/runtime-main.17e826c8.js",
+    "runtime-main.js.map": "/soumyotech-react-practice/static/js/runtime-main.17e826c8.js.map",
+    "static/css/2.74c02967.chunk.css": "/soumyotech-react-practice/static/css/2.74c02967.chunk.css",
+    "static/js/2.0ca8635b.chunk.js": "/soumyotech-react-practice/static/js/2.0ca8635b.chunk.js",
+    "static/js/2.0ca8635b.chunk.js.map": "/soumyotech-react-practice/static/js/2.0ca8635b.chunk.js.map",
+    "index.html": "/soumyotech-react-practice/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/soumyotech-react-practice/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.ce84cb0f.chunk.css.map": "/soumyotech-react-practice/static/css/main.ce84cb0f.chunk.css.map",
+    "static/js/2.0ca8635b.chunk.js.LICENSE.txt": "/soumyotech-react-practice/static/js/2.0ca8635b.chunk.js.LICENSE.txt",
+    "static/media/android-dev.0193508e.png": "/soumyotech-react-practice/static/media/android-dev.0193508e.png",
+    "static/media/app-dev.1709e5ff.png": "/soumyotech-react-practice/static/media/app-dev.1709e5ff.png",
+    "static/media/digital-marketing.d9c1ce8c.jpg": "/soumyotech-react-practice/static/media/digital-marketing.d9c1ce8c.jpg",
+    "static/media/error3.f90dc05f.png": "/soumyotech-react-practice/static/media/error3.f90dc05f.png",
+    "static/media/img2.e0b490f7.png": "/soumyotech-react-practice/static/media/img2.e0b490f7.png",
+    "static/media/img5.7d91931d.jpg": "/soumyotech-react-practice/static/media/img5.7d91931d.jpg",
+    "static/media/marketing.b220b48b.jpeg": "/soumyotech-react-practice/static/media/marketing.b220b48b.jpeg",
+    "static/media/software-dev.6e4c858e.png": "/soumyotech-react-practice/static/media/software-dev.6e4c858e.png",
+    "static/media/web-dev.33f5176e.jpg": "/soumyotech-react-practice/static/media/web-dev.33f5176e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17e826c8.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.0ca8635b.chunk.js",
+    "static/css/main.ce84cb0f.chunk.css",
+    "static/js/main.77fbe112.chunk.js"
+  ]
+}
